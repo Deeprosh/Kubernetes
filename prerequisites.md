@@ -1,0 +1,3 @@
+- Install kubectl 
+- Install eksctl
+- AWS CLI
